@@ -1,0 +1,4 @@
+#Wed Jul 10 17:04:04 WAT 2019
+base.0=C\:\\Development\\Tremendoc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
